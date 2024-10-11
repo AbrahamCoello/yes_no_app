@@ -1,6 +1,6 @@
 # yes_no_app
 
-A new Flutter project.
+Un Chat basico utilizando [yesno](https://yesno.wtf/) como api de mensajeria.
 
 ## Getting Started
 
